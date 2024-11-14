@@ -14,3 +14,6 @@ this is not the same thing! (i don't know how to make it look as good, or have a
 - ~~looks amazing with cool GUI stuff~~ (idk how to do that, please help)
 - can check advancements through minecraft log, by checking if the chat says "PLAYER GOT ADVANCEMENT"
 - supports servers where you dont have access to the world file
+
+# how to
+1. don't. (it doesn't exist)
